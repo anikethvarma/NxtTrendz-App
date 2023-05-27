@@ -26,7 +26,7 @@ NxtTrendz is a React application in which it is the clone of a e-commerce websit
 - Redirecting the any route to login rout if the user did not login or login expires.
 - If the user login and tries for login then it redirects to home page.
 
-##Creditials of website
+## Creditials of website
 Username: rahul
 Password: rahul@2021
 
